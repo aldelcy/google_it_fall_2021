@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+general_script.sh
+./general_script.sh
+
 # Distribution / packaging
 .Python
 build/
