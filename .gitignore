@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-general_script.sh
-./general_script.sh
+/ignore/*
+./ignore/*
+ignore/*
 
 # Distribution / packaging
 .Python
